@@ -18,6 +18,7 @@ Determine which county had the largest votes
 The outcome of election as following:
 There are 369,711 total votes cast in the election. 
 Below is the breakdown of the number of votes and the percentage of total votes for each county.  
+
 ![image](https://user-images.githubusercontent.com/103588178/168516518-78e25f2b-e7a6-4ce3-b1f4-07f092ff299e.png)
 
 
